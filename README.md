@@ -11,3 +11,5 @@ quedando así guardados los datos de la imagen en la variables internas del algo
 
 Para que el código funcione es necesario que el usuario cuente con python o es su defecto un entorno de desarrollo de código abierto para programación en lenguaje python, como spyder. Además es necesario que previamene instale las siguientes librerías: numpy, gdal, os, sys, math, tkinter.
 Adicionalmente, la interfaz cuenta con una guía de usuario.
+
+Nota: se deben descargar todos los archivos aquí cargados y guardarlos en una misma carpeta, finalmente el código que se debe ejecutar es el de "ventanaavanzada.py"
